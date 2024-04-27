@@ -22,3 +22,5 @@ const arr5 = arr.filter((currentValue) => (currentValue < 0 && currentValue % 5 
 console.log('Các số nhỏ hơn 0 và chia hết cho 5: ' + arr5);
 
 console.log('git')
+
+console.log('feature_b')
