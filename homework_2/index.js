@@ -21,4 +21,6 @@ console.log('Cac số nhỏ hơn 0 và là số chẳn: ' + arr4);
 const arr5 = arr.filter((currentValue) => (currentValue < 0 && currentValue % 5 === 0));
 console.log('Các số nhỏ hơn 0 và chia hết cho 5: ' + arr5);
 
-console.log('git')
+console.log('github');
+
+console.log('feature_b_2');
